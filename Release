@@ -1,0 +1,8 @@
+Origin: 6ilent
+Label: 6ilent
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 6ilent's Cydia Repository!

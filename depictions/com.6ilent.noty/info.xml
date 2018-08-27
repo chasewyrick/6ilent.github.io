@@ -1,0 +1,28 @@
+<package>
+	<id>com.6ilent.noty</id>
+	<name>Noty</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Second release</change>
+		<change>Added some more stuff to it!</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/6ilent</name>
+			<url>https://www.reddit.com/u/6ilent</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
