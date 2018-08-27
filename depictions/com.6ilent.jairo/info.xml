@@ -1,0 +1,34 @@
+<package>
+	<id>com.6ilent.jairo</id>
+	<name>Jairo</name>
+	<version>2.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Better Power Down Menu for iOS 11!</shortDescription>
+	<descriptionlist>
+		<description>Better Power Down, what else can one say?</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>How it looks!</description>
+			<image>Jairo.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Fixes</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/6ilent</name>
+			<url>https://www.reddit.com/u/6ilent</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
