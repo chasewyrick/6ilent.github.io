@@ -9,10 +9,11 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+	</package>libbulletin</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Test Notifications? Yeah I guess so :)</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
+		<description> Send some test notifications with statusbar gestures.</description>
 	</descriptionlist>
 	<changelog>
 		<change>Second release</change>
