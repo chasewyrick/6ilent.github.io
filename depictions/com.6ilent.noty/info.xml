@@ -4,12 +4,12 @@
 	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-	</package>libbulletin</package>
+		<package>libbulletin</package>
 	</dependencies>
 	<shortDescription>Test Notifications? Yeah I guess so :)</shortDescription>
 	<descriptionlist>
